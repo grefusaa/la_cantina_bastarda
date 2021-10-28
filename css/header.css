@@ -1,0 +1,25 @@
+
+img{
+    width: 70px;
+}
+
+.imag{
+    width: 70px;
+    justify-self: left;
+    align-self: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto 1fr 1fr;
+    align-content: center;
+}
+.mid{
+    justify-self: right;
+    align-self: center;
+    padding-left: 150px;
+}
+.left{
+    justify-self: center;
+    align-self: end;
+    padding-left: 100px;
+}

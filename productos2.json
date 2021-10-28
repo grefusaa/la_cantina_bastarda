@@ -1,0 +1,54 @@
+[{
+  "id": "1",
+  "nombre": "Bocadillo de jamón y queso",
+  "precio": "1.5",
+  "torn": "tarda",
+  "ruta": "/imagenes/jamonqueso.png"
+},
+  {
+    "id": "2",
+    "nombre": "Bocadillo de jamón serrano y queso",
+    "precio": "2.5",
+    "torn": "tarda",
+    "ruta": "/imagenes/jamonserranoqueso.png"
+  },
+  {
+    "id": "3",
+    "nombre": "Bocadillo de chorizo",
+    "precio": "2.5",
+    "torn": "tarda",
+    "ruta": "/imagenes/chorizo.png"
+  },
+  {
+    "id": "4",
+    "nombre": "Café con leche",
+    "precio": "1.2",
+    "torn": "tarda",
+    "ruta": "/imagenes/cafeleche.png"
+
+  },
+  {
+    "id": "5",
+    "nombre": "Agua",
+    "precio": "1",
+    "torn": "tarda",
+    "ruta": "/imagenes/agua.png"
+
+  },
+  {
+    "id": "6",
+    "nombre": "Refrescos",
+    "precio": "1.6",
+    "torn": "tarda",
+    "ruta": "/imagenes/refresco.png"
+
+  },
+  {
+    "id": "7",
+    "nombre": "Donuts",
+    "precio": "1",
+    "torn": "tarda",
+    "ruta": "/imagenes/donuts.png"
+
+  }
+]

@@ -1,0 +1,41 @@
+header{
+
+    background-color: #A7E9FF;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color:  #DCDCDC;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#flex_ticket{
+    display: flex;
+}
+#ticket{
+    margin-right: 100px;
+}
+label {
+    display: block;
+    float: center;
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
+}
+input {
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+}
+button {
+    margin-top: 20px;
+}
+.error{
+    color: red;
+}
