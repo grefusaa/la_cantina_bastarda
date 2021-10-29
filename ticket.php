@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,7 +21,7 @@
                 $menu = file_get_contents('productos.json');
 
                 $menu_json = json_decode($menu,true);
-
+		
                 $Preu_total = 0;
                 foreach ($_POST as $id => $value){
 

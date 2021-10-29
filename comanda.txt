@@ -17,4 +17,16 @@
 	Nombre: DANI
 	Telefono: 654654654
 	Correo: dani@inspedralbes.cat
-	Comanda: Nombre de producto: Bocadillo de Pollo-----Unitats: 2  ----  Preu unitari: 3.5€  ==> Preu total: 7€                       
+	Comanda: Nombre de producto: Bocadillo de Pollo-----Unitats: 2  ----  Preu unitari: 3.5€  ==> Preu total: 7€                       	
+
+	Informacion del usuario:
+	Nombre: Dani
+	Telefono: 132465789
+	Correo: a22@inspedralbes.cat
+	Comanda: Nombre de producto: Bocadillo de jamón serrano y queso-----Unitats: 2  ----  Preu unitari: 2.5€  ==> Preu total: 5€                       	
+
+	Informacion del usuario:
+	Nombre: admin
+	Telefono: 147852369
+	Correo: moha@inspedralbes.cat
+	Comanda: Nombre de producto: Bocadillo de jamón serrano y queso-----Unitats: 1  ----  Preu unitari: 2.5€  ==> Preu total: 2.5€                      Nombre de producto: -----Unitats: 1  ----  Preu unitari: €  ==> Preu total: 0€                       
